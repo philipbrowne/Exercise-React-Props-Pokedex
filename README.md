@@ -1,3 +1,9 @@
+# Exercise: React Props: Pokedex
+
+## Exercise Guidelines
+
+This exercise lets you pratice using React components and properties using a small set of data similar to that from the Pokemon API.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
